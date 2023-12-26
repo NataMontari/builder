@@ -1,8 +1,8 @@
-package com.example.task3;
+package com.example;
 
 public class Main {
     public static void main(String[] args) {
-        MyImage img = new RealImage("C:\\Users\\Natalya\\Pictures\\msg-1977883029-133430.jpg");
+        MyImage img = new RealImage("D:\\Arda\\teddy.jpg");
         img.display();
     }
 }

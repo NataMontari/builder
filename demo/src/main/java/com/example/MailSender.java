@@ -1,4 +1,4 @@
-package com.example.task3;
+package com.example;
 
 public class MailSender {
     public String sendMail(MailInfo mailInfo){

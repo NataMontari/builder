@@ -1,4 +1,4 @@
-package com.example.task3;
+package com.example;
 
 public interface MailCode {
     public String generateText(Client client);
